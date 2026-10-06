@@ -311,6 +311,7 @@ export function Contact() {
                         >
                           <option value="" disabled className="bg-secondary text-stone">Select Event Type</option>
                           <option value="Wedding" className="bg-secondary text-white">Wedding</option>
+                          <option value="Engagement" className="bg-secondary text-white">Engagement</option>
                           <option value="Pre-Wedding" className="bg-secondary text-white">Pre-Wedding</option>
                           <option value="Model Shoot" className="bg-secondary text-white">Model Shoot</option>
                           <option value="Commercial Campaign" className="bg-secondary text-white">Commercial Campaign</option>

@@ -25,11 +25,18 @@ export const categories: Category[] = [
     "count": 25
   },
   {
+    "slug": "engagement",
+    "name": "Engagement",
+    "description": "Heartfelt engagement and ring ceremony narratives celebrating love, commitment, and genuine bonds.",
+    "coverImage": "/images/client/1fuFPBCTCCVzMr9mKfAYrq95uJPjbAsTO_BB_(1).jpg",
+    "count": 50
+  },
+  {
     "slug": "pre-wedding",
     "name": "Pre-Wedding",
     "description": "Intimate, romantic couple portraits amidst Kerala natural landscapes and luxury architectural venues.",
     "coverImage": "/images/client/1-iqsBARTBUeI_hgFsg_dTa7PtIUTOLMm_DSC03476.JPG",
-    "count": 61
+    "count": 109
   },
   {
     "slug": "model-shoot",
@@ -2547,6 +2554,888 @@ export const portfolioImages: PortfolioImage[] = [
     "src": "/images/client/maternity_1VhaQiz-_TMUs0e4g758FDNEcxaW4Gx44.jpg",
     "alt": "Bhavinesh Bharathan Photography - Maternity & Motherhood Collection 22",
     "category": "maternity",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-276",
+    "src": "/images/client/1fuFPBCTCCVzMr9mKfAYrq95uJPjbAsTO_BB_(1).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 1",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-277",
+    "src": "/images/client/1HJXHbFBtwb-cIcVKDc8s6FKtJHRNS_18_BB_(2).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 2",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-278",
+    "src": "/images/client/12y-tA8nAv3Bp3mn1iY1Nbd1PoAaEXDiW_BB_(3).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 3",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-279",
+    "src": "/images/client/1b3AoX5RDLC-TUufzEsG-gMB2tHWVWJ0R_BB_(4).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 4",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-280",
+    "src": "/images/client/1hV1qlR0GFQj9BnCSFtX3AJ1AO_2smEAF_BB_(5).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 5",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-281",
+    "src": "/images/client/1XEkZtceBSHTQkr4yjDc01f9OlvMWtyGY_BB_(6).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 6",
+    "category": "engagement",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-282",
+    "src": "/images/client/1NzzZRJUK8FbbWe_yJ_3S4allNMRbTXg7_BB_(7).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 7",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-283",
+    "src": "/images/client/1QBAJsCLWxfZeW2uvHuM6h4i2W7VXfTXY_BB_(8).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 8",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-284",
+    "src": "/images/client/17mDxWiXMgbz-zApW6NPMoMg1iFdghHo2_BB_(9).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 9",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-285",
+    "src": "/images/client/1-cq6OVGdi_zv-4npuIqvUmglqrFMn7HO_BB_(10).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 10",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-286",
+    "src": "/images/client/1_kuWuuQyXa89KojdcgSyCX7r9Nbqi2nm_BB_(11).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 11",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-287",
+    "src": "/images/client/16YUubuFQ0ZQ_OgGHcCAslsD4iNCsiMPM_BB_(12).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 12",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-288",
+    "src": "/images/client/1vGfCkUsTx8sPPVulDhNcLlZ1tzj291Pr_BB_(13).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 13",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-289",
+    "src": "/images/client/1OG0lLr8oSG4NmrKjel86c4B6aKJkQjxu_BB_(14).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 14",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-290",
+    "src": "/images/client/16GJdfqgKh0j-OIZfUzPBLbI4TgOWbaYg_BB_(15).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 15",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-291",
+    "src": "/images/client/192LITKXYj7mhXXMLi_236ktL8oeDMSmf_BB_(16).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 16",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-292",
+    "src": "/images/client/1SS-6LIYVGMlhEpPUasVaMP4UFnWw_GqS_BB_(17).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 17",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-293",
+    "src": "/images/client/1tQlxuFG_bfgSAsacwtqWsc211e4hbJyc_BB_(18).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 18",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-294",
+    "src": "/images/client/1C3pKONmYka4ghpfgEtNSoXSQDTxy6ZVk_BB_(19).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 19",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-295",
+    "src": "/images/client/1YnAQ85XYUSQG6naSkPOYBtqvnUocGrKP_BB_(20).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 20",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-296",
+    "src": "/images/client/1szriCqdFbIAKNRWrgSClNOeew9MYJjsa_BB_(21).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 21",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-297",
+    "src": "/images/client/1AG_lzmFNMMO9jjC9LWZviYOj7CoaUaf3_BB_(22).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 22",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-298",
+    "src": "/images/client/1jgOUSPQrMl1IcFePnIH9QFol6V9ir2l5_BB_(23).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 23",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-299",
+    "src": "/images/client/1KN0zS7EZmCZd8n7UpgLI7_PNf6fqO_LL_BB_(24).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 24",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-300",
+    "src": "/images/client/16RF3ow_lvblJm4s_KZ9b6xUrbKvvbkBA_BB_(25).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 25",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-301",
+    "src": "/images/client/1fooFkW9vnOBwb7uuqe698ElNZ9UkDXH1_BB_(26).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 26",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-302",
+    "src": "/images/client/1bm9p6gbzLWWTF_1INO_QRHGRzpXwqILm_BB_(27).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 27",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-303",
+    "src": "/images/client/14Z_Gya6kWoafeN_Y1kjI6WK2IoFaNA6G_BB_(28).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 28",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-304",
+    "src": "/images/client/1FhVD6j1s3wMhnP6dUP1mkC_EaZmckJVI_BB_(29).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 29",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-305",
+    "src": "/images/client/19neDxoVeQDEobzoMx0r78sZWJ0snPBtc_BB_(30).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 30",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-306",
+    "src": "/images/client/1jbV-QfBYIZh3W8beKdSDIEOqQB96kx9N_BB_(31).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 31",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-307",
+    "src": "/images/client/1TQn99tz6-8TW65RXY2fTIK-jkEhHj65h_BB_(32).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 32",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-308",
+    "src": "/images/client/1AtQ96peefYNkq4KzTvzlf_fk0oEpwCKG_BB_(33).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 33",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-309",
+    "src": "/images/client/1lt574iTxpPafinY2vRYqWYSCQFMD5_So_BB_(34).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 34",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-310",
+    "src": "/images/client/1pFGTmKaw_K2oUeqyouUAnX2eCOw7sXQ1_BB_(35).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 35",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-311",
+    "src": "/images/client/1YqDS4rqxBoHAL87viF1JI1i06pW9hrxC_BB_(36).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 36",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-312",
+    "src": "/images/client/1zsPjVMGFqtCpfNRPreCJCrinupvisj1m_BB_(37).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 37",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-313",
+    "src": "/images/client/1bZFefPvlY9ySsUCkCTfahheD-Hppx2p7_BB_(38).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 38",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-314",
+    "src": "/images/client/1t18ZFBrkSi4q6PLU3Am1PCilvKQRgReG_BB_(39).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 39",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-315",
+    "src": "/images/client/1fz9ELsevWpCDrupsBNGg9ieOUztw2czA_BB_(40).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 40",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-316",
+    "src": "/images/client/1HDh1q1l8NQE6BYHoDEHF-McwILbZ6Z-3_BB_(41).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 41",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-317",
+    "src": "/images/client/1Dokiocmt5Y5qykxjZ-nrdmZYzHgXst1Z_BB_(42).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 42",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-318",
+    "src": "/images/client/1zubjIJLn9fywSYXb4OwCHfbVPX1n9hoc_BB_(43).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 43",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-319",
+    "src": "/images/client/1VQQ8ElJZCXzob4mDl7vEdpGQ_hUz7LWm_BB_(44).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 44",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-320",
+    "src": "/images/client/1FrfXmLupg9l9j_pGxsa-paLn5aZ6D-Kq_BB_(45).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 45",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-321",
+    "src": "/images/client/1f3jvTCmsx-yjaTDQIkHL62u-lDWy4jqk_BB_(46).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 46",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-322",
+    "src": "/images/client/1CTwtApPqwZ0AFtCHkwz2IiRF-r5_w6kS_BB_(47).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 47",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-323",
+    "src": "/images/client/16v-e8iViyf7LTnOGx7aGM0VVu546jtZs_BB_(48).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 48",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-324",
+    "src": "/images/client/1FgQZorwGy2rLXEdiGkDvD2SYxlq6sese_BB_(49).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 49",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-325",
+    "src": "/images/client/1LeSNQM41vwWfhmrT6AgX5cq6AhzL5c_W_BB_(50).jpg",
+    "alt": "Bhavinesh Bharathan Photography - Engagement Story 50",
+    "category": "engagement",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-326",
+    "src": "/images/client/1c5hd_OVq2UnULDeYQXK7MnTUHYuOE8vI_DSC05801.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 1",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-327",
+    "src": "/images/client/1eL4E_Oo7gB5cn_wqXjuEWxAo-FgHvmLM_DSC05805.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 2",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-328",
+    "src": "/images/client/1tXXqpEU9mYNz4NoRZdLOxHnC8V2czYZp_DSC05822.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 3",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-329",
+    "src": "/images/client/1AoQ_f2Y4AzfAOXGnahBljZRh1s6XzraZ_DSC05828.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 4",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-330",
+    "src": "/images/client/1zF7aPMpdUxKtlkCakzJ5ovRAnaiu2xKE_DSC05830.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 5",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-331",
+    "src": "/images/client/1ZdwfXlnpKPzilIlwxeC_RekHd1hV5FLF_DSC05835.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 6",
+    "category": "pre-wedding",
+    "featured": true,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-332",
+    "src": "/images/client/1VHr2cT8TBfwhe0v-ja41gEEme3quwKOZ_DSC05840.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 7",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-333",
+    "src": "/images/client/1XIzurYi2EKAwIshIC7Om-Kt7Usl2KZtY_DSC05855.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 8",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-334",
+    "src": "/images/client/1E_NfjX7Epq3KQTyg81PWnCUcaiYUOcSC_DSC05878.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 9",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-335",
+    "src": "/images/client/1sVzE9xJDAa45c6YleoY1xiwhVSCuL1Cw_DSC05889.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 10",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-336",
+    "src": "/images/client/1oF_skS4Ly2-TWL5oPQPxGtKAcDYvBLUt_DSC05899.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 11",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-337",
+    "src": "/images/client/1CCviaKePCAjRQlCZa7xx1tRr7Jy89sz3_DSC05902.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 12",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-338",
+    "src": "/images/client/1PnfqI4Rd9E4O9QIvds_9gRwc0VO4tq5K_DSC05905.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 13",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-339",
+    "src": "/images/client/1-3c96-peSt3WF5QjI9v1In4vU-AIj-_O_DSC05910.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 14",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-340",
+    "src": "/images/client/1jhVmRxB76j9QWqHghxgnkWKYE2smHxie_DSC05918.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 15",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-341",
+    "src": "/images/client/1O4KOCJvlozs5zAGSIiPAsws4cP827PKy_DSC05948.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 16",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-342",
+    "src": "/images/client/1ilwefDUCXB4NIXT7zDIOiJj_rYoC-MPS_DSC05969.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 17",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-343",
+    "src": "/images/client/1fMAI2jGynO_Mo-RVltDYuYIPKIO8OJF6_DSC05975.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 18",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-344",
+    "src": "/images/client/1yh637vjJYktLIF2eO4tMI7hajMuhe-0U_DSC06009.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 19",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-345",
+    "src": "/images/client/18wsOw2LQYXzWTYqGKlh-9u1MSSM6KQfA_DSC06012.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 20",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-346",
+    "src": "/images/client/1ZyPbEYdbYcw1_u5mr7lWPBGwOGc97ZfO_DSC06029.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 21",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-347",
+    "src": "/images/client/12BGLbYsnDO2eSUDjPGQE5Y-ae9eAvDU-_DSC06035.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 22",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-348",
+    "src": "/images/client/1fSb0hbW1nq_ODLmL8gm_Zp_vgG5mgqmv_DSC06060.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 23",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-349",
+    "src": "/images/client/1zuHDA84EFwjV-AXhTLw3P57c35gUHMSg_DSC06062.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 24",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-350",
+    "src": "/images/client/1slKqCbOCFHuRCmQpMRJOiZrow36cVpdp_DSC06064.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 25",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-351",
+    "src": "/images/client/1srMnt_52TRCuLqNq1pDEkK-dr2LEGt0r_DSC06073.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 26",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-352",
+    "src": "/images/client/1ncks7cI2rKuKGzVWF-jOCvjJXvX5ID3w_DSC06144.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 27",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-353",
+    "src": "/images/client/1ptxqwxuTHQHhVPFN42Ge4jdConrd1Ntt_DSC06191.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 28",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-354",
+    "src": "/images/client/191xAqFq28bvTN9vxEGDmSk7aV35dEGJF_DSC06204.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 29",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-355",
+    "src": "/images/client/1Bs9qh-15BPhrmZSb0KWKlZVhDaWqFISM_DSC06209.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 30",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-356",
+    "src": "/images/client/1hR3VBpO3GSRDUIKckvxh8A1dI23rRRML_DSC06210.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 31",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-357",
+    "src": "/images/client/1RYGav59TYMK1eFgfPmj7-HONt4dTDqhs_DSC06219.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 32",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-358",
+    "src": "/images/client/15JdTYXWOsco3EelQvrUlHojpufnww5Nf_DSC06227.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 33",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-359",
+    "src": "/images/client/1XN-E0LQILLJ3iHPZdji7QWkOoCEN5Jkk_DSC06251.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 34",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-360",
+    "src": "/images/client/19SuVrK7ufKi0bMlxAAHqrxsCrrMXXL_8_DSC06273.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 35",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-361",
+    "src": "/images/client/1zB2NEWesyiaL08x9S99s0KUP1e4iT9LJ_DSC06304.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 36",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-362",
+    "src": "/images/client/1p_fKrHHv1L2bm4_eKGFXdv5IDdj1MYpC_DSC06315.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 37",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-363",
+    "src": "/images/client/1193fKqUtLfIpmiaWjANI-pEmD70DJeBd_DSC06352.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 38",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-364",
+    "src": "/images/client/1IISnMAHby7R7MPfHewpnrtl-4A2pvCLT_DSC06360.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 39",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-365",
+    "src": "/images/client/1n6I5XucY2SZa4TQzTnuow7-w55ced13Q_DSC06399.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 40",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-366",
+    "src": "/images/client/1mMIujuIUI_XsR3fa7fNkI6xq5_NeRBbp_DSC06418.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 41",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-367",
+    "src": "/images/client/1Yk7UJAUjTCZBhVedrSM3xckyGbkVfUSs_DSC06428.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 42",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-368",
+    "src": "/images/client/15ifd0EMthEJK6kEMcPci8nWNG_i9WFKs_DSC06432.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 43",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-369",
+    "src": "/images/client/1tbR6dHb1rhvTSOunHbn3_1FvsPIWTULR_DSC06533.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 44",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-370",
+    "src": "/images/client/1D3mLvaQQq_hqgEQR8_-2PSJriNwuy1Xg_DSC06586.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 45",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-371",
+    "src": "/images/client/1rnl9FVnenZsWD7gctFw7BUE0PONFttPD_DSC06649.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 46",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-372",
+    "src": "/images/client/1sfidu98boRYsDpgecL5kKqJ38XwFOJCj_DSC06709.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 47",
+    "category": "pre-wedding",
+    "featured": false,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "id": "photo-373",
+    "src": "/images/client/1MLvdHwJZZeO8W_ChpZCmkAx1313Rdqec_DSC06734.jpg",
+    "alt": "Bhavinesh Bharathan Photography - Pre-Wedding Romance Story 48",
+    "category": "pre-wedding",
     "featured": false,
     "width": 1600,
     "height": 1067

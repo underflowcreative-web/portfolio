@@ -5,15 +5,22 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useCursor } from '@/hooks/use-cursor';
 
 const heroImages = [
+  // Existing Hero Images (Preserved)
   '/images/client/16E9CENfCEoCsCZ05I3dkHSEoBWD9Vwo2_DSC01056.jpg',
   '/images/client/1ljbELOPGq4p821MRMbu0H9_b3RQTnsL8__DSC1373.JPG',
   '/images/client/1OPiohkC-39652qDD_ez43SHW1HZ0zl3r_DSC01064.jpg',
   '/images/client/11nIs1YZf75lnXDlwRCOq4EouKxNEw_Sm__DSC4308-2.JPG',
   '/images/client/1_aXNQANoYnjoj1i8oFeFK8kD0jv-321r_DSC01176.jpg',
+  // New Engagement & Pre-Wedding Additions
+  '/images/client/1fuFPBCTCCVzMr9mKfAYrq95uJPjbAsTO_BB_(1).jpg',
+  '/images/client/1c5hd_OVq2UnULDeYQXK7MnTUHYuOE8vI_DSC05801.jpg',
+  '/images/client/16YUubuFQ0ZQ_OgGHcCAslsD4iNCsiMPM_BB_(12).jpg',
+  '/images/client/1AoQ_f2Y4AzfAOXGnahBljZRh1s6XzraZ_DSC05828.jpg',
 ];
 
 const categoryList = [
   'Wedding',
+  'Engagement',
   'Pre Wedding',
   'Commercial',
   'Model Shoot',
